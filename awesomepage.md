@@ -1,1 +1,0 @@
-sample sample this is a sample of the master page just wanted to see it work for the master branch.
